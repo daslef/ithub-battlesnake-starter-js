@@ -1,0 +1,19 @@
+TAP version 14
+# Subtest: avoid head to head: one safe option
+    not ok 1 - choose the one safe move that avoids potential head to head meetings
+    1..1
+not ok 1 - avoid head to head: one safe option # time=7.736ms
+
+# Subtest: avoid head to head: two safe options
+    ok 1 - choose either left or right, the moves that avoids potential head to head meetings
+    ok 2 - choose either left or right, the moves that avoids potential head to head meetings
+    1..2
+ok 2 - avoid head to head: two safe options # time=2.252ms
+
+# Subtest: avoid head to head: two safe options (\#2)
+    ok 1 - choose either left or right, the moves that avoids potential head to head meetings
+    ok 2 - choose either left or right, the moves that avoids potential head to head meetings
+    1..2
+ok 3 - avoid head to head: two safe options (\#2) # time=1.725ms
+
+1..3
