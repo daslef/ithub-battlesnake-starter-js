@@ -1,11 +1,9 @@
 import express from "express";
 
-import loadConfig from "./config.js";
-
 import getMove from "../handlers/move.js";
 import getInfo from "../handlers/info.js";
 
-export default function setupServer() {
+export default function bootstrap() {
     const app = express();
 
     app.use(express.json());
@@ -31,5 +29,5 @@ export default function setupServer() {
         next();
     });
 
-    return () => app.listen(loadConfig())
+    return app
 }

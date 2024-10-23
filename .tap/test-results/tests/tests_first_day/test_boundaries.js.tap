@@ -2,51 +2,51 @@ TAP version 14
 # Subtest: avoid hitting the north wall
     ok 1 - should be equal
     1..1
-ok 1 - avoid hitting the north wall # time=5.75ms
+ok 1 - avoid hitting the north wall # time=6.129ms
 
 # Subtest: avoid hitting the west wall
-    not ok 1 - should be equal
+    ok 1 - should be equal
     1..1
-not ok 2 - avoid hitting the west wall # time=3.526ms
+ok 2 - avoid hitting the west wall # time=1.229ms
 
 # Subtest: avoid hitting the northwest corner
-    not ok 1 - should be equal
+    ok 1 - should be equal
     1..1
-not ok 3 - avoid hitting the northwest corner # time=2.346ms
+ok 3 - avoid hitting the northwest corner # time=1.317ms
 
 # Subtest: avoid hitting the southwest corner, southbound
-    not ok 1 - should be equal
+    ok 1 - should be equal
     1..1
-not ok 4 - avoid hitting the southwest corner, southbound # time=1.662ms
+ok 4 - avoid hitting the southwest corner, southbound # time=1.727ms
 
 # Subtest: avoid hitting the south wall
-    ok 1 - move left or right when you hit south wall head on
+    not ok 1 - should be equal
     1..1
-ok 5 - avoid hitting the south wall # time=1.874ms
+not ok 5 - avoid hitting the south wall # time=2.932ms
 
 # Subtest: avoid hitting the southeast corner, eastbound
-    ok 1 - should be equal
+    not ok 1 - should be equal
     1..1
-ok 6 - avoid hitting the southeast corner, eastbound # time=0.862ms
+not ok 6 - avoid hitting the southeast corner, eastbound # time=2.423ms
 
 # Subtest: survive the northeast corner, northbound
-    ok 1 - should be equal
+    not ok 1 - should be equal
     1..1
-ok 7 - survive the northeast corner, northbound # time=0.771ms
+not ok 7 - survive the northeast corner, northbound # time=1.784ms
 
 # Subtest: avoid hitting the northeast corner, eastbound
-    not ok 1 - should be equal
+    ok 1 - should be equal
     1..1
-not ok 8 - avoid hitting the northeast corner, eastbound # time=1.097ms
+ok 8 - avoid hitting the northeast corner, eastbound # time=0.634ms
 
 # Subtest: avoid hitting the east wall, southbound
-    not ok 1 - move left or down to avoid the east wall, southbound
+    ok 1 - should be equal
     1..1
-not ok 9 - avoid hitting the east wall, southbound # time=2.044ms
+ok 9 - avoid hitting the east wall, southbound # time=0.716ms
 
 # Subtest: avoid hitting the east wall and another snake, eastbound
-    not ok 1 - should be equal
+    ok 1 - should be equal
     1..1
-not ok 10 - avoid hitting the east wall and another snake, eastbound # time=1.743ms
+ok 10 - avoid hitting the east wall and another snake, eastbound # time=0.769ms
 
 1..10

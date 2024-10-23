@@ -1,6 +1,6 @@
 export default function loadConfig() {
     return {
-        host: "0.0.0.0",
-        port: process.env.PORT || 8000
+        host: process.env?.HOST || "localhost",
+        port: process.env?.PORT || 4000
     }
 }

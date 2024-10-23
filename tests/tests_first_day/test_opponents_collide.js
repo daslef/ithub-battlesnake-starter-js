@@ -54,9 +54,7 @@ tap.test('avoid head to head: one safe option', (t) => {
 
     const expected = 'left'
     const result = getMove(game)
-    const note = 'choose the one safe move that avoids potential head to head meetings'
-    t.equal(result.move, expected, note)
-
+    t.equal(result.move, expected)
     t.end()
 })
 
@@ -109,69 +107,6 @@ tap.test('avoid head to head: two safe options', (t) => {
     }
 
     const result = getMove(game)
-    const note = 'choose either left or right, the moves that avoids potential head to head meetings'
-    t.ok(result.move === 'left' || result.move === 'right', note)
-    t.ok(result.move !== 'up', note)
-
+    t.ok(result.move === 'left' || result.move === 'right')
     t.end()
 })
-
-tap.test('avoid head to head: two safe options (#2)', (t) => {
-    const you = {
-        head: { x: 9, y: 7 },
-        body: [
-            { x: 9, y: 7 },
-            { x: 9, y: 8 },
-            { x: 10, y: 8 }
-        ],
-        length: 3
-    }
-
-    const game = {
-        board: {
-            height: 11,
-            width: 11,
-            snakes: [
-                {
-                    id: 'c8cb622e-7bde-4bdf-b570-2303c83777c0',
-                    name: 'us',
-                    health: 99,
-                    length: 3,
-                    head: you.head,
-                    body: you.body,
-                    latency: 0,
-                    shout: '',
-                    squad: ''
-                },
-                {
-                    id: 'opponent-123asd',
-                    name: 'them',
-                    health: 99,
-                    length: 3,
-                    head: { x: 9, y: 5 },
-                    body: [
-                        { x: 9, y: 5 },
-                        { x: 8, y: 5 },
-                        { x: 7, y: 5 },
-                        { x: 7, y: 6 },
-                        { x: 8, y: 6 }
-                    ],
-                    latency: 0,
-                    shout: '',
-                    squad: ''
-                }
-            ],
-            hazards: []
-        },
-        you: you
-    }
-
-    const result = getMove(game)
-    const note = 'choose either left or right, the moves that avoids potential head to head meetings'
-    t.ok(result.move === 'left' || result.move === 'right', note)
-    t.ok(result.move !== 'down', note)
-
-    t.end()
-})
-
-

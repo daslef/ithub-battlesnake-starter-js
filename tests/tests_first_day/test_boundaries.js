@@ -132,8 +132,7 @@ tap.test('avoid hitting the south wall', function (t) {
   }
 
   const result = getMove(game)
-  const note = 'move left or right when you hit south wall head on'
-  t.ok(result.move === 'left' || result.move === 'right', note)
+  t.ok(result.move === 'left' || result.move === 'right')
   t.end()
 })
 
@@ -243,8 +242,7 @@ tap.test('avoid hitting the east wall, southbound', function (t) {
   }
 
   const result = getMove(game)
-  const note = 'move left or down to avoid the east wall, southbound'
-  t.ok(result.move === 'left' || result.move === 'down', note)
+  t.ok(result.move === 'left' || result.move === 'down')
   t.end()
 })
 
@@ -303,6 +301,5 @@ tap.test('avoid hitting the east wall and another snake, eastbound', function (t
   const expected = 'up'
   const result = getMove(game)
   t.equal(result.move, expected)
-
   t.end()
 })
