@@ -1,7 +1,7 @@
 import tap from 'tap'
 import { spawn } from 'child_process'
 
-import run from '../../src/cli/run.js'
+import run from '../src/cli/run.js'
 
 tap.test('must survive at least 20 turns', function (t) {
     const expressProcess = spawn('node', ["./src/index.js"])

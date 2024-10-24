@@ -7,7 +7,7 @@
     "scripts": {
         "game:dev": "cross-env PORT=4000 HOST=localhost nodemon",
         "game:test": "cross-env PORT=4000 HOST=localhost node ./src/cli/index.js",
-        "test": "tap run ./tests/tests_first_day --disable-coverage --no-diag --passes"
+        "test": "tap run ./tests --disable-coverage --no-diag --passes"
     },
     "dependencies": {
         "@types/node": "^18.19.33",

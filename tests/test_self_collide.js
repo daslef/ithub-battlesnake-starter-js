@@ -1,6 +1,6 @@
 import tap from 'tap'
 
-import getMove from '../../src/handlers/move.js'
+import getMove from '../src/handlers/move.js'
 
 const board = {
     height: 11,
