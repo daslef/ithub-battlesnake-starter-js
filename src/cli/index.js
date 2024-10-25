@@ -1,7 +1,6 @@
 import { spawn } from 'child_process'
 import run from "./run.js";
 
-
 const expressProcess = spawn('node', ["./src/index.js"])
 
 expressProcess.stdout.on('data', () => {
@@ -13,7 +12,8 @@ expressProcess.stdout.on('data', () => {
         }
     }
 
-    const cliRunner = run(true)
+    const withBots = process.argv[2] === '--with-bots'
+    const cliRunner = run(true, withBots)
     const cliProcess = cliRunner()
     cliProcess.stderr.on('data', processFinish);
     cliProcess.stdout.on('data', processFinish);

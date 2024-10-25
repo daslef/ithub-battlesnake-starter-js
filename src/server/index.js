@@ -1,15 +1,12 @@
 import express from "express";
 
-import getMove from "../handlers/move.js";
-import getInfo from "../handlers/info.js";
-
-export default function bootstrap() {
+export default function bootstrap({ handleMove, handleInfo }) {
     const app = express();
 
     app.use(express.json());
 
     app.get("/", (_, res) => {
-        res.send(getInfo());
+        res.send(handleInfo());
     });
 
     app.post("/start", (_, res) => {
@@ -17,7 +14,7 @@ export default function bootstrap() {
     });
 
     app.post("/move", (req, res) => {
-        res.send(getMove(req.body));
+        res.send(handleMove(req.body));
     });
 
     app.post("/end", (_, res) => {

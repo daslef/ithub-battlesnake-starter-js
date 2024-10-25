@@ -1,8 +1,8 @@
 {
-  "date": "2024-10-23T18:16:58.771Z",
+  "date": "2024-10-25T02:27:23.427Z",
   "argv": [
     "C:\\Program Files\\nodejs\\node.exe",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\tests\\tests_first_day\\test_boundaries.js"
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\tests\\test_survivability.js"
   ],
   "execArgv": [
     "--import=file:///C:/Users/a.trofimov/Downloads/snakes-starters/ithub-battlesnake-starter-js/node_modules/@isaacs/ts-node-temp-fork-for-pr-2009/import.mjs",
@@ -12,12 +12,12 @@
   ],
   "NODE_OPTIONS": "\"--import=file:///C:/Users/a.trofimov/Downloads/snakes-starters/ithub-battlesnake-starter-js/node_modules/@tapjs/processinfo/dist/esm/import.mjs\"",
   "cwd": "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js",
-  "pid": 4864,
-  "ppid": 5960,
+  "pid": 13436,
+  "ppid": 7440,
   "parent": null,
-  "uuid": "3812910a-d6d2-4f98-b48c-2cc731fe7fa3",
+  "uuid": "4efad4a5-579b-4263-b4fe-cdd1077f70a3",
   "files": [
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\tests\\tests_first_day\\test_boundaries.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\tests\\test_survivability.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@isaacs\\ts-node-temp-fork-for-pr-2009\\import.mjs",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@isaacs\\ts-node-temp-fork-for-pr-2009\\import-loader.mjs",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\mock\\dist\\esm\\import.mjs",
@@ -39,8 +39,8 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\resolve-import\\dist\\esm\\resolve-conditional-value.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\resolve-import\\dist\\esm\\resolve-import.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\resolve-import\\dist\\esm\\is-windows.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\resolve-import\\dist\\esm\\get-conditional-values-list.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\stack\\dist\\esm\\parse.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\resolve-import\\dist\\esm\\get-conditional-values-list.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\resolve-import\\dist\\esm\\errors.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\resolve-import\\dist\\esm\\get-named-exports-list.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\resolve-import\\dist\\esm\\read-pkg.js",
@@ -58,8 +58,8 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\walk-up-path\\dist\\esm\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\node_modules\\minimatch\\dist\\esm\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\dist\\esm\\glob.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\dist\\esm\\has-magic.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\dist\\esm\\ignore.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\dist\\esm\\has-magic.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\node_modules\\minimatch\\dist\\esm\\assert-valid-pattern.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\node_modules\\minimatch\\dist\\esm\\ast.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\node_modules\\minimatch\\dist\\esm\\escape.js",
@@ -67,15 +67,15 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\path-scurry\\dist\\esm\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\dist\\esm\\pattern.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\dist\\esm\\walker.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\path-scurry\\node_modules\\lru-cache\\dist\\esm\\index.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\minipass\\dist\\esm\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\node_modules\\minimatch\\dist\\esm\\brace-expressions.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\minipass\\dist\\esm\\index.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\path-scurry\\node_modules\\lru-cache\\dist\\esm\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\dist\\esm\\processor.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\mock\\dist\\esm\\loader.mjs",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\mock\\dist\\esm\\hooks.mjs",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\mock\\dist\\esm\\mock-service-client.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap\\dist\\esm\\index.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\src\\handlers\\move.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\src\\cli\\run.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap\\dist\\esm\\main.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\test\\dist\\esm\\index.js",
@@ -90,10 +90,10 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\parse-test-args.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\proc.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\spawn.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\stdin.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\tap-dir.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\test-base.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\test-point.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\stdin.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\waiter.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\worker.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\tap.js",
@@ -109,10 +109,10 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\trivial-deferred\\dist\\mjs\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\esc.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\implicit-end-sigil.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\before\\dist\\esm\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\after\\dist\\esm\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\after-each\\dist\\esm\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\asserts\\dist\\esm\\index.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\before\\dist\\esm\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\before-each\\dist\\esm\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\chdir\\dist\\esm\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\filter\\dist\\esm\\index.js",
@@ -134,26 +134,26 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-parser\\dist\\esm\\result.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-parser\\dist\\esm\\statics.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-parser\\dist\\esm\\escape.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\clean-yaml-object.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\processinfo\\dist\\esm\\child_process.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\processinfo\\dist\\esm\\process-info-node.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\processinfo\\dist\\esm\\json-file.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\clean-yaml-object.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\function-loop\\dist\\mjs\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tcompare\\dist\\esm\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\asserts\\dist\\esm\\normalize-throws-args.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\dist\\esm\\index.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\fixture\\dist\\esm\\fixture.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\mock\\dist\\esm\\mock-require.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\serialize.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\snapshot\\dist\\esm\\clean-cwd.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\snapshot\\dist\\esm\\provider.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\dist\\esm\\index.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\fixture\\dist\\esm\\fixture.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@isaacs\\cliui\\index.mjs",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-yaml\\dist\\esm\\parse.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-yaml\\dist\\esm\\stringify.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-parser\\dist\\esm\\final-plan.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-parser\\dist\\esm\\brace-patterns.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\processinfo\\dist\\esm\\spawn-opts.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\diff\\lib\\index.mjs",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\processinfo\\dist\\esm\\spawn-opts.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tcompare\\dist\\esm\\format.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tcompare\\dist\\esm\\has-strict.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tcompare\\dist\\esm\\has.js",
@@ -164,13 +164,6 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tcompare\\dist\\esm\\same.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tcompare\\dist\\esm\\strict.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tcompare\\dist\\esm\\styles.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\index.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\comment.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\on-add.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\print-messages.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\stdio.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-map.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\snapshot\\dist\\esm\\require.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\dist\\esm\\opt-arg.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\dist\\esm\\path-arg.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\dist\\esm\\rimraf-manual.js",
@@ -180,17 +173,19 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\dist\\esm\\rimraf-windows.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\dist\\esm\\use-native.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\mkdirp\\dist\\mjs\\index.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\index.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\comment.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\on-add.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\print-messages.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\stdio.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-map.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\snapshot\\dist\\esm\\require.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@isaacs\\cliui\\build\\lib\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@isaacs\\cliui\\node_modules\\string-width\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\strip-ansi\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@isaacs\\cliui\\node_modules\\wrap-ansi\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-yaml\\dist\\esm\\types\\index.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-message-data.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-nested-location.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-point-message-data.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-point-results.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-results.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\loc-from-at.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tcompare\\dist\\esm\\react-element-to-jsx-string.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\dist\\esm\\platform.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\dist\\esm\\default-tmp.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\dist\\esm\\ignore-enoent.js",
@@ -198,25 +193,30 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\dist\\esm\\readdir-or-error.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\dist\\esm\\fix-eperm.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\dist\\esm\\retry-busy.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tcompare\\dist\\esm\\react-element-to-jsx-string.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\serialize.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\deserialize.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\test-stream-deserialize.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\messages.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\test-stream-serialize.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\constants.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\mkdirp\\dist\\mjs\\mkdirp-manual.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\mkdirp\\dist\\mjs\\mkdirp-native.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\mkdirp\\dist\\mjs\\opts-arg.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\mkdirp\\dist\\mjs\\path-arg.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\mkdirp\\dist\\mjs\\use-native.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\serialize.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\deserialize.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\test-stream-serialize.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\test-stream-deserialize.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\messages.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\constants.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\loc-from-at.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-nested-location.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-message-data.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-point-message-data.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-point-results.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-results.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\ansi-regex\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\ansi-styles\\index.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-yaml\\dist\\esm\\types\\date.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-yaml\\dist\\esm\\types\\timestamp.js",
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\mkdirp\\dist\\mjs\\find-made.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\loc-from-callsite.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\result-to-error.js",
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\mkdirp\\dist\\mjs\\find-made.js",
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\pretty-diff.js"
   ],
   "sources": {
@@ -277,11 +277,11 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\resolve-import\\dist\\esm\\is-windows.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\resolve-import\\src\\is-windows.ts"
     ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\resolve-import\\dist\\esm\\get-conditional-values-list.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\resolve-import\\src\\get-conditional-values-list.ts"
-    ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\stack\\dist\\esm\\parse.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\stack\\src\\parse.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\resolve-import\\dist\\esm\\get-conditional-values-list.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\resolve-import\\src\\get-conditional-values-list.ts"
     ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\resolve-import\\dist\\esm\\errors.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\resolve-import\\src\\errors.ts"
@@ -334,11 +334,11 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\dist\\esm\\glob.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\src\\glob.ts"
     ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\dist\\esm\\has-magic.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\src\\has-magic.ts"
-    ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\dist\\esm\\ignore.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\src\\ignore.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\dist\\esm\\has-magic.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\src\\has-magic.ts"
     ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\node_modules\\minimatch\\dist\\esm\\assert-valid-pattern.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\node_modules\\minimatch\\src\\assert-valid-pattern.ts"
@@ -361,14 +361,14 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\dist\\esm\\walker.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\src\\walker.ts"
     ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\path-scurry\\node_modules\\lru-cache\\dist\\esm\\index.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\path-scurry\\node_modules\\lru-cache\\src\\index.ts"
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\node_modules\\minimatch\\dist\\esm\\brace-expressions.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\node_modules\\minimatch\\src\\brace-expressions.ts"
     ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\minipass\\dist\\esm\\index.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\minipass\\src\\index.ts"
     ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\node_modules\\minimatch\\dist\\esm\\brace-expressions.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\node_modules\\minimatch\\src\\brace-expressions.ts"
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\path-scurry\\node_modules\\lru-cache\\dist\\esm\\index.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\path-scurry\\node_modules\\lru-cache\\src\\index.ts"
     ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\dist\\esm\\processor.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\glob\\src\\processor.ts"
@@ -418,9 +418,6 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\spawn.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\src\\spawn.ts"
     ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\stdin.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\src\\stdin.ts"
-    ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\tap-dir.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\src\\tap-dir.ts"
     ],
@@ -429,6 +426,9 @@
     ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\test-point.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\src\\test-point.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\stdin.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\src\\stdin.ts"
     ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\waiter.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\src\\waiter.ts"
@@ -475,6 +475,9 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\implicit-end-sigil.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\src\\implicit-end-sigil.ts"
     ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\before\\dist\\esm\\index.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\before\\src\\index.ts"
+    ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\after\\dist\\esm\\index.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\after\\src\\index.ts"
     ],
@@ -483,9 +486,6 @@
     ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\asserts\\dist\\esm\\index.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\asserts\\src\\index.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\before\\dist\\esm\\index.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\before\\src\\index.ts"
     ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\before-each\\dist\\esm\\index.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\before-each\\src\\index.ts"
@@ -550,6 +550,9 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-parser\\dist\\esm\\escape.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-parser\\src\\escape.ts"
     ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\clean-yaml-object.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\src\\clean-yaml-object.ts"
+    ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\processinfo\\dist\\esm\\child_process.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\processinfo\\src\\child_process.ts"
     ],
@@ -559,9 +562,6 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\processinfo\\dist\\esm\\json-file.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\processinfo\\src\\json-file.ts"
     ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\dist\\esm\\clean-yaml-object.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\core\\src\\clean-yaml-object.ts"
-    ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\function-loop\\dist\\mjs\\index.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\function-loop\\src\\index.ts"
     ],
@@ -570,6 +570,12 @@
     ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\asserts\\dist\\esm\\normalize-throws-args.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\asserts\\src\\normalize-throws-args.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\dist\\esm\\index.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\src\\index.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\fixture\\dist\\esm\\fixture.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\fixture\\src\\fixture.ts"
     ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\mock\\dist\\esm\\mock-require.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\mock\\src\\mock-require.ts"
@@ -582,12 +588,6 @@
     ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\snapshot\\dist\\esm\\provider.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\snapshot\\src\\provider.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\dist\\esm\\index.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\src\\index.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\fixture\\dist\\esm\\fixture.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\fixture\\src\\fixture.ts"
     ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-yaml\\dist\\esm\\parse.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-yaml\\src\\parse.ts"
@@ -634,27 +634,6 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tcompare\\dist\\esm\\styles.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tcompare\\src\\styles.ts"
     ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\index.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\src\\index.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\comment.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\comment.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\on-add.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\on-add.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\print-messages.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\print-messages.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\stdio.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\stdio.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-map.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\test-map.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\snapshot\\dist\\esm\\require.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\snapshot\\src\\require.ts"
-    ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\dist\\esm\\opt-arg.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\src\\opt-arg.ts"
     ],
@@ -682,26 +661,32 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\mkdirp\\dist\\mjs\\index.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\mkdirp\\src\\index.ts"
     ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\index.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\src\\index.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\comment.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\comment.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\on-add.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\on-add.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\print-messages.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\print-messages.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\stdio.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\stdio.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-map.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\test-map.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\snapshot\\dist\\esm\\require.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\snapshot\\src\\require.ts"
+    ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-yaml\\dist\\esm\\types\\index.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-yaml\\src\\types\\index.ts"
     ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-message-data.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\test-message-data.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-nested-location.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\test-nested-location.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-point-message-data.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\test-point-message-data.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-point-results.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\test-point-results.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-results.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\test-results.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\loc-from-at.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\loc-from-at.ts"
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tcompare\\dist\\esm\\react-element-to-jsx-string.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tcompare\\src\\react-element-to-jsx-string.ts"
     ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\dist\\esm\\platform.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\src\\platform.ts"
@@ -724,27 +709,6 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\dist\\esm\\retry-busy.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\rimraf\\src\\retry-busy.ts"
     ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tcompare\\dist\\esm\\react-element-to-jsx-string.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tcompare\\src\\react-element-to-jsx-string.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\serialize.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\src\\serialize.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\deserialize.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\src\\deserialize.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\test-stream-deserialize.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\src\\test-stream-deserialize.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\messages.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\src\\messages.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\test-stream-serialize.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\src\\test-stream-serialize.ts"
-    ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\constants.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\src\\constants.ts"
-    ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\mkdirp\\dist\\mjs\\mkdirp-manual.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\mkdirp\\src\\mkdirp-manual.ts"
     ],
@@ -760,11 +724,50 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\mkdirp\\dist\\mjs\\use-native.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\mkdirp\\src\\use-native.ts"
     ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\serialize.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\src\\serialize.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\deserialize.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\src\\deserialize.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\test-stream-serialize.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\src\\test-stream-serialize.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\test-stream-deserialize.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\src\\test-stream-deserialize.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\messages.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\src\\messages.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\dist\\esm\\constants.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\error-serdes\\src\\constants.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\loc-from-at.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\loc-from-at.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-nested-location.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\test-nested-location.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-message-data.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\test-message-data.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-point-message-data.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\test-point-message-data.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-point-results.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\test-point-results.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\test-results.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\test-results.ts"
+    ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-yaml\\dist\\esm\\types\\date.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-yaml\\src\\types\\date.ts"
     ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-yaml\\dist\\esm\\types\\timestamp.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\tap-yaml\\src\\types\\timestamp.ts"
+    ],
+    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\mkdirp\\dist\\mjs\\find-made.js": [
+      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\mkdirp\\src\\find-made.ts"
     ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\loc-from-callsite.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\loc-from-callsite.ts"
@@ -772,16 +775,13 @@
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\result-to-error.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\result-to-error.ts"
     ],
-    "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\mkdirp\\dist\\mjs\\find-made.js": [
-      "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\mkdirp\\src\\find-made.ts"
-    ],
     "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\dist\\esm\\pretty-diff.js": [
       "C:\\Users\\a.trofimov\\Downloads\\snakes-starters\\ithub-battlesnake-starter-js\\node_modules\\@tapjs\\node-serialize\\src\\pretty-diff.ts"
     ]
   },
-  "root": "3812910a-d6d2-4f98-b48c-2cc731fe7fa3",
-  "externalID": "tests/tests_first_day/test_boundaries.js",
-  "code": 1,
+  "root": "4efad4a5-579b-4263-b4fe-cdd1077f70a3",
+  "externalID": "tests/test_survivability.js",
+  "code": 0,
   "signal": null,
-  "runtime": 2181.9159
+  "runtime": 1665.4711
 }

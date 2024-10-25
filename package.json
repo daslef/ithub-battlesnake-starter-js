@@ -5,8 +5,9 @@
     "type": "module",
     "main": "./src/index.js",
     "scripts": {
-        "game:dev": "cross-env PORT=4000 HOST=localhost nodemon",
-        "game:test": "cross-env PORT=4000 HOST=localhost node ./src/cli/index.js",
+        "bots": "node ./src/bots/index.js",
+        "cli:solo": "cross-env PORT=4000 HOST=localhost node ./src/cli/index.js",
+        "cli:bots": "cross-env PORT=4000 HOST=localhost node ./src/cli/index.js --with-bots",
         "test": "tap run ./tests --disable-coverage --no-diag --passes"
     },
     "dependencies": {
