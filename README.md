@@ -1,4 +1,4 @@
-# / Python / IThub BattleSnake Starter
+# / JavaScript / IThub BattleSnake Starter
 
 ## Пререквизиты
 
