@@ -1,0 +1,12 @@
+TAP version 14
+# Subtest: avoid head to head: one safe option
+    not ok 1 - should be equal
+    1..1
+not ok 1 - avoid head to head: one safe option # time=6.014ms
+
+# Subtest: avoid head to head: two safe options
+    ok 1 - should be equal
+    1..1
+ok 2 - avoid head to head: two safe options # time=1.348ms
+
+1..2
